@@ -1,0 +1,105 @@
+@import url(navbar.css);
+@import url(buttons.css);
+/* stylelint-disable docusaurus/copyright-header */
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+
+/* @import url("https://"); */
+
+:root {
+  --ifm-color-primary: #000000;
+  /* --ifm-color-primary-dark: #009fff; */
+  /* --ifm-color-primary-darker: #c74c05;
+  --ifm-color-primary-darkest: #0f2027; */
+  /* --ifm-color-primary-light: #ec2f4b; */
+  /* --ifm-color-primary-lighter: #f96c1b;
+  --ifm-color-primary-lightest: #fa823e; */
+  --ifm-navbar-link-hover-color: var(--ifm-color-primary);
+  --ifm-background-color: #ffffff;
+
+  --ifm-code-font-size: 95%;
+  --ifm-navbar-link-color: #000;
+  --ifm-font-family-base: "Roboto";
+  --ifm-font-family-monospace: "Roboto Mono";
+  --ifm-button-padding-horizontal: 0.55rem;
+  --ifm-button-padding-vertical: 0.7rem;
+  --ifm-menu-color: #000;
+  /* --ifm-menu-color-background-active: transparent; */
+  --ifm-toc-link-color: #000;
+  --ifm-table-border-color: #efefef;
+  /* --ifm-navbar-height: 85px; */
+  --ifm-button-border-width: ;
+  --ifm-font-size-base: 16px;
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgb(0, 0, 0);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+.footer--dark {
+  --ifm-footer-background-color: #ffffff;
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgb(255, 255, 255);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+.hero__title {
+  color: inherit;
+}
+
+blockquote {
+  border-left-color: var(--ifm-color-primary);
+  background-color: #f7f7f7;
+}
+
+.markdown > h2 {
+  border-top: 1px solid #efefef;
+  padding-top: 15px;
+}
+
+.markdown p img {
+  max-width: 80%;
+  border: 1px solid gray;
+}
+
+.markdown p em img {
+  border: none;
+}
+
+.contents ul > li {
+  font-size: 12px;
+}
+
+.react-toggle {
+  display: none !important;
+}
+
+@media (max-width: 996px) {
+  :root {
+    --wdio-spacing-vertical: 20px;
+  }
+}
+
+@media (max-width: 500px) {
+  :root {
+    --wdio-spacing-vertical: 10px;
+  }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1) {
+  :root {
+    --ifm-line-height-base: 1.85;
+  }
+}
