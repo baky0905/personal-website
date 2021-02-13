@@ -5,7 +5,7 @@ module.exports = {
   tagline:
     "Welcome to the website where you will find personal projects, blog posts and bookmarks.", // used in meta data
   url: "https://github.com/baky0905/personal-web/", // url where websited is hosted
-  baseUrl: "/", // path where website is available
+  baseUrl: "/personal-website/", // path where website is available
   favicon: "img/favicon.ico", // path to favicon with respect to static dir
   organizationName: "KB", // Usually your GitHub org/user name.
   projectName: "personal-web", // project name i.e repo name of project
