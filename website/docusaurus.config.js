@@ -7,7 +7,7 @@ module.exports = {
   url: "https://github.com/baky0905/personal-web/", // url where websited is hosted
   baseUrl: "/personal-website/", // path where website is available
   favicon: "img/favicon.ico", // path to favicon with respect to static dir
-  organizationName: "KB", // Usually your GitHub org/user name.
+  organizationName: "baky0905", // Usually your GitHub org/user name.
   projectName: "personal-web", // project name i.e repo name of project
   //wrapPagesHTML: "true", // Boolean flag to indicate whether HTML files in /pages should be wrapped with Docusaurus site styles, header and foote
   onBrokenLinks: "ignore", // https://v2.docusaurus.io/docs/docusaurus.config.js/
