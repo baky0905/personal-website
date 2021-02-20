@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "docusaurus start",
-    "build": "docusaurus build && mv build ../docs",
+    "build": "rm -r ../docs && docusaurus build && mv build ../docs",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy"
   },
