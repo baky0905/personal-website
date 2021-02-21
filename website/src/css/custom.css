@@ -11,30 +11,47 @@
 
 /* @import url("https://"); */
 
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Changa:wght@500&display=swap");
+
 :root {
-  --ifm-color-primary: #000000;
-  /* --ifm-color-primary-dark: #009fff; */
-  /* --ifm-color-primary-darker: #c74c05;
-  --ifm-color-primary-darkest: #0f2027; */
-  /* --ifm-color-primary-light: #ec2f4b; */
-  /* --ifm-color-primary-lighter: #f96c1b;
-  --ifm-color-primary-lightest: #fa823e; */
-  --ifm-navbar-link-hover-color: var(--ifm-color-primary);
-  --ifm-background-color: #ffffff;
+  --ifm-color-primary: #d1f2e2;
+  --ifm-color-primary-dark: #03433f;
+  --ifm-color-primary-darker: #033f3c;
+  --ifm-color-primary-darkest: #023431;
+  --ifm-color-primary-light: #03514d;
+  --ifm-color-primary-lighter: #035551;
+  --ifm-color-primary-lightest: #04605b;
+
+  --ifm-navbar-link-color: #ffe5d2;
+  --ifm-navbar-background-color: #034a46;
+  --ifm-navbar-link-hover-color: #a1d9bf;
+
+  --ifm-link-color: #b8e6d0;
+  --ifm-heading-color: #ffe5d2;
+
+  --ifm-menu-color: #ffe5d2;
+  --ifm-font-color: #ffe5d2;
+
+  --ifm-background-color: #034a46;
 
   --ifm-code-font-size: 95%;
-  --ifm-navbar-link-color: #000;
-  --ifm-font-family-base: "Roboto";
-  --ifm-font-family-monospace: "Roboto Mono";
+  /* --ifm-font-family-base: "Nunito Sans"; */
+
   --ifm-button-padding-horizontal: 0.55rem;
   --ifm-button-padding-vertical: 0.7rem;
-  --ifm-menu-color: #000;
+
+  --ifm-link-hover-color: #ffe5d2;
+  --ifm-link-decoration: underline;
+
   /* --ifm-menu-color-background-active: transparent; */
-  --ifm-toc-link-color: #000;
+  --ifm-toc-link-color: #ffe5d2;
+
   --ifm-table-border-color: #efefef;
-  /* --ifm-navbar-height: 85px; */
-  --ifm-button-border-width: ;
   --ifm-font-size-base: 16px;
+  --ifm-font-color-base: #ffe5d2;
+  --ifm-global-shadow-md: 0px;
 }
 
 .docusaurus-highlight-code-line {
@@ -44,8 +61,14 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
+.footer {
+  background-color: #d1f2e2;
+  color: #03433f;
+  padding: var(--ifm-footer-padding-vertical);
+}
+
 .footer--dark {
-  --ifm-footer-background-color: #ffffff;
+  --ifm-footer-background-color: #d1f2e2;
 }
 
 .docusaurus-highlight-code-line {
@@ -56,22 +79,34 @@
 }
 
 .hero__title {
-  color: inherit;
+  color: #034a46;
+}
+
+.hero__subtitle {
+  color: #034a46;
 }
 
 blockquote {
   border-left-color: var(--ifm-color-primary);
-  background-color: #f7f7f7;
+  background-color: #ffe5d2;
+  color: #034a46;
 }
 
 .markdown > h2 {
-  border-top: 1px solid #efefef;
+  font-family: "Changa";
+  border-top: 1.5px solid #144a46;
   padding-top: 15px;
+  color: #ffe5d2;
+}
+
+.markdown {
+  color: #ffe5d2;
+  font-family: "Nunito Sans";
 }
 
 .markdown p img {
   max-width: 80%;
-  border: 1px solid gray;
+  border: 1px solid #ffe5d2;
 }
 
 .markdown p em img {
@@ -80,6 +115,7 @@ blockquote {
 
 .contents ul > li {
   font-size: 12px;
+  color: #ffe5d2;
 }
 
 .react-toggle {

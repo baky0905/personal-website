@@ -1,9 +1,8 @@
 const path = require("path");
 
 module.exports = {
-  title: "Personal Website", // title of website
-  tagline:
-    "Welcome to the website where you will find personal projects, blog posts and bookmarks.", // used in meta data
+  title: "Kristijan Bakaric", // title of website
+  tagline: "Welcome to my personal website!", // used in meta data
   url: "https://github.com/baky0905/personal-web/", // url where websited is hosted
   baseUrl: "/personal-website/", // path where website is available
   favicon: "img/favicon.ico", // path to favicon with respect to static dir
@@ -20,16 +19,16 @@ module.exports = {
           "https://images.unsplash.com/photo-1474540412665-1cdae210ae6b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1362&q=80", // path with respect to static dir
       },
       items: [
-        {
-          to: "docs/projects/project1",
-          label: "Projects",
-          position: "left",
-        },
-        {
-          to: "./", // path to page
-          label: "Tips and Tricks",
-          position: "left",
-        },
+        // {
+        //   to: "docs/projects/project1",
+        //   label: "Projects",
+        //   position: "left",
+        // },
+        // {
+        //   to: "./", // path to page
+        //   label: "Tips and Tricks",
+        //   position: "left",
+        // },
         { to: "blog", label: "Blog", position: "left" },
         // {
         //   to: "docs/", // path to page
@@ -39,7 +38,7 @@ module.exports = {
 
         {
           to: "docs/bookmarks", // path to page
-          label: "The Bookmarks",
+          label: "THE Bookmarks",
           position: "left",
         },
         {
@@ -48,8 +47,7 @@ module.exports = {
           position: "left",
         },
         {
-          href:
-            "https://github.com/baky0905/personal-web/tree/master/personal-web",
+          href: "https://github.com/baky0905",
           label: "GitHub",
           position: "right",
         },

@@ -19,7 +19,7 @@ title: "THE bookmarks"
 - [API](#api)
 - [Azure](#azure)
 - [Best Practice and Key Documents](#best-practice-and-key-documents)
-- [Bussiness Analytics](#bussiness-analytics)
+- [Business Analytics](#business-analytics)
 - [Collaboration](#collaboration)
 - [Courses](#courses)
 - [Data Wrangling and related](#data-wrangling-and-related)
@@ -69,7 +69,6 @@ title: "THE bookmarks"
 
 - [Azure Databricks](https://databricks.com/) - Unified Data Analytics Platform - One cloud platform for massive scale data engineering and collaborative data science. ✔️🌎
 
-
 - [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) - Automate your builds and deployments with Pipelines so you spend less time with the nuts and bolts and more time being creative. ✔️🌎
 
 - [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/) - this site is a special collection of over 260+ tips, videos, conference talks that span the entire universe of the Azure platform. The tips you'll find here are based on real-world scenarios that I've encountered (along with the community) while using Azure. Feel free to jump in and come back weekly for new tips!
@@ -81,48 +80,32 @@ title: "THE bookmarks"
 
 - [Tidy Data Principles](https://vita.had.co.nz/papers/tidy-data.pdf) - Tidy datasets are easy to manipulate, model and visualise, and have a specific structure: each variable is a column, each observation is a row, and each type of observational unit is a table. ✔️🌎
 
-## Bussiness Analytics
+## Business Analytics
 
 👔👔👔👔👔
 
 - [Power BI](https://powerbi.microsoft.com/en-us/what-is-power-bi/) - Power BI is a business analytics solution that lets you visualize your data and share insights across your organization, or embed them in your app or website. Connect to hundreds of data sources. ✔️🌎
 
 
-  - [Create Tooltips on report pages](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-tooltips) - You can create visually rich report tooltips that appear when you hover over visuals, based on report pages you create in Power BI Desktop. ✔️🌎
-
-
   - [Data Stories Gallery](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery) - Gallery of Power BI dashboards as inspiration. ✔️🌎
 
   - [Dataflows - incremental refresh](https://docs.microsoft.com/en-us/power-query/dataflows/incremental-refresh) - With dataflows, you can bring large amounts of data into Power BI or your organization's provided storage. In some cases, however, it's not practical to update a full copy of source data in each refresh. A good alternative is incremental refresh. ✔️🌎
 
-
   - [Power Apps visual for Power BI](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/powerapps-custom-visual) - Using the Power Apps visual, you can pass context-aware data to a canvas app, which updates in real time as you make changes to your report. ✔️🌎
-
 
 
 ## Collaboration
 
 🤼🤼🤼🤼🤼
 
-- [Slack](https://slack.com/intl/en-no/) - is a tool for fast-collaboration similar to IRC in the 90ties but on steroids. ✔️🌎
-
-
-- [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software) - Microsoft business communication platform developed by Microsoft, as part of the Microsoft 365 family of products ✔️🌎
 
 ## Courses
 
 👩‍🏫👩‍🏫👩‍🏫👩‍🏫👩‍🏫
 
-- [Become a Data Analyst (Udacity)](https://www.udacity.com/course/data-analyst-nanodegree--nd002) - Use Python, SQL, and statistics to uncover insights, communicate critical findings, and create data-driven solutions. ✔️💲🌎
-
 - [CSS Grid Garden](https://cssgridgarden.com/) - Welcome to Grid Garden, where you write CSS code to grow your carrot garden! Water only the areas that have carrots by using the grid-column-start property. ✔️🌎
 
-- [Data Scientist with Python (Data Camp)](https://www.datacamp.com/tracks/data-scientist-with-python) - Gain Python skills you need to succeed as a data scientist. ✔️💲🌎
-
-- [Data Scientist with R (Data Camp)](https://www.datacamp.com/tracks/data-scientist-with-r) - A Data Scientist combines statistical and machine learning techniques with R programming to analyze and interpret complex data. ✔️💲🌎
-
 - [Design for Developers](https://frontendmasters.com/courses/design-for-developers/) - Learn how to become self-sufficient for the entire process of execution from concept to design to implementation. Also, understand the rules for designing to become a better collaborator to design team members and better able to execute the creation of complex and beautiful front-end experiences. ✔️💲🌎
-
 
 - [Freecodecamp.org](https://www.freecodecamp.org/) - Learn to code at home. Build Projects and earn certificaitons, Responsive Web Design, Javascript Algorithms and Data Structures, Front End Libraries, Data Visualisation, APIs, Quality assurance, Scientific porgramming with Python, Data Analysis with Python, Information Security, Machine Learning with Python, Coding Interview prep. ✔️🌎
 
@@ -159,7 +142,6 @@ title: "THE bookmarks"
 
 - [Brandwood](https://www.brandwood.com/a11y/) - This is a guide to foreground colour accessibility on a background image. It is intended as guide for designers and developers to test if their design solution is accessible. ✔️🌎
 
-
 - [Colorable](https://colorable.jxnblk.com/) - Take a set color palette and get contrast values for every possible combination – useful for finding safe color combinations with predefined colors and includes pass/fail scores for the WCAG accessibility guidelines. ✔️🌎
 
 - [Color Adobe](https://color.adobe.com/create)
@@ -175,8 +157,6 @@ title: "THE bookmarks"
 
 - [Dribble](https://dribbble.com/) - Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals.
 
-
-
 - [Google Fonts](https://fonts.google.com/) ✔️🌎
 
   - [Top 50 Google Font Pairings](https://www.pagecloud.com/blog/best-google-fonts-pairings) - The fonts you decide to use on your website can make or break your design. Handpicked by Pro Designers. ✔️🌎
@@ -184,7 +164,6 @@ title: "THE bookmarks"
 - [Grid by Example](https://gridbyexample.com/) - This site is a collection of examples, video and other information to help you learn CSS Grid Layout. ✔️🌎
 
 - [Figma](https://www.figma.com/) - Figma is a collaborative interface design tool used mainly by UX/UI designers and front-end developers. Figma can be used in the browser or downloaded as a stand-alone app. ✔️🌎
-
 
 - [Font Joy](https://fontjoy.com/) - Font pairing made simple. Generate font combinations with deep learning. ✔️🌎
 
@@ -208,8 +187,6 @@ title: "THE bookmarks"
 
 - [Hex Color - The Code Side of Color](https://www.smashingmagazine.com/2012/10/the-code-side-of-color/) - The trouble with a color’s name is that it never really is perceived.
 
-
-
 - [Hue, Saturation and Luminosity](https://www.labnol.org/home/hue-saturation-luminosity/20104/) - A Simple Way to Understand Hue, Saturation and Luminosity.
 
 - [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) - Paletton is an online application located on the internet at Paletton.com. It provides powerfull tool to create color combinations and palettes of colors that work together well. The major advantage of Paletton is it's not using the modern computer and engineering RGB color space, but it's built on a classical artistic color wheel, applies classical color theory and works within a specially created RYB color space. Therefore the color combinations it produces are very different from those you can get in many computer graphic applications.
@@ -222,23 +199,17 @@ title: "THE bookmarks"
 
 - [UI pattern](https://codepen.io/topics/ui-pattern) - Templates, examples and resources for common libraries, frameworks and UI patterns.
 
-
 ## How we work
 
 🛣️🛣️🛣️🛣️🛣️
 
 - [Agile Product Ownership](https://www.youtube.com/watch?v=502ILHjX9EE&feature=youtu.be) - 1 day product ownership course compressed into 15 minute animated presentation. There's obviously more to product ownership than this, so see this is a high level summary. ✔️🌎
 
-
-
 ## Inspiration
 
 💡💡💡💡💡
 
-
 - [Schlumberger's journey](https://powerapps.microsoft.com/en-us/blog/schlumberger/) - An article on how prolific app maker ignites low code revolution and Schlumberger ✔️🌎
-
-- [SAP Tutorials and Scripts](https://www.tutorialspoint.com/sap_scripts/) - SAP Scripts is a SAP tool that is used to generate formatted documents and for external purposes to print and transfer business documents. This tutorial talks about the basic concepts of SAP Scripts and how the various components interact. ✔️🌎
 
 ## Integrated Development Environments (IDE) and Editors
 
@@ -323,24 +294,13 @@ title: "THE bookmarks"
 
 - [Applications of Data Science](https://dsapps-2020.github.io/Class_Slides/) - Introduction to the Applications of Data Science in R and Python. ✔️🌎
 
-- [Anaconda](https://www.anaconda.com/) - Anaconda (Python distribution) Anaconda is a free and open-source distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment. ✔️🌎
-
-  - [Anaconda is bloated](https://medium.com/dunder-data/anaconda-is-bloated-set-up-a-lean-robust-data-science-environment-with-miniconda-and-conda-forge-b48e1ac11646) - In this tutorial, author will describe a process for setting up a lean and robust Python data science environment on your system with Miniconda and Conda-Forge. ✔️🌎
-
-
+- [Anaconda is bloated](https://medium.com/dunder-data/anaconda-is-bloated-set-up-a-lean-robust-data-science-environment-with-miniconda-and-conda-forge-b48e1ac11646) - In this tutorial, author will describe a process for setting up a lean and robust Python data science environment on your system with Miniconda and Conda-Forge. ✔️🌎
 
 - [Awesome Python Data Science List](https://github.com/krzjoa/awesome-python-data-science#readme) -Probably the best curated list of data science software in Python. ✔️🌎
 
 - [Modern Data Science with R](https://beanumber.github.io/mdsr2e/) - As the title says it is a modern approach to data science with R. ✔️🌎
 
-- [Python](https://www.python.org/) - Python is an interpreted, high-level, general-purpose programming language. ✔️🌎
-
-
-
 - [Python Cookbook](https://www.dawsonera.com/readonline/9781449357368/startPage/1) - If you need help writing programs in Python 3, this book is just the ticket. Packed with practical recipes written and tested with Python 3.3, this unique cookbook is for experienced Python programmers who want to focus on modern tools and idioms. 🌎❌
-
-- [R](https://www.r-project.org/) - R is a free software environment for statistical computing and graphics. ✔️🌎
-
 
 - [R for Data Science](https://r4ds.had.co.nz/) - This book will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it. ✔️🌎
 
@@ -349,10 +309,6 @@ title: "THE bookmarks"
 ## Project and Backlog Management
 
 🚧🚧🚧🚧🚧
-
-- [Azure Boards (component of Azure DevOps)](https://azure.microsoft.com/en-us/services/devops/boards/) - Delivers a suite of Agile tools to support planning and tracking work, code defects, and issues using Kanban and Scrum methods. ✔️🌎
-
-- [Microsoft Planner](https://www.microsoft.com/en-us/microsoft-365/business/task-management-software) - Organize teamwork with intuitive, collaborative, visual task management. ✔️🌎
 
 ## Reproducible Research
 
@@ -369,7 +325,6 @@ title: "THE bookmarks"
 🎦 🎦 🎦 🎦 🎦
 
 
-
 ## Spatial Data
 
 🗺️🗺️🗺️🗺️🗺️
@@ -384,28 +339,20 @@ title: "THE bookmarks"
 
 📄📄📄📄📄
 
+[Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 
 ## User Experience - UX
 
 👤👤👤👤👤
 
 
-
 ## Version Control
 
 🛃🛃🛃🛃🛃
 
-
-
-- [GitHub Actions](https://github.com/features/actions) - GitHub Actions makes it easy to automate all your software workflows, now with world-class CI/CD. Build, test, and deploy your code right from GitHub. Make code reviews, branch management, and issue triaging work the way you want. ✔️🌎
-
-
-
-
 - [git for humans](https://www.youtube.com/watch?v=eWxxfttcMts) - Making unfriendly git friendly. - [slides](https://speakerdeck.com/alicebartlett/git-for-humans) ✔️🌎
 
 - [git - the simple guide](https://rogerdudler.github.io/git-guide/) - Just a simple guide for getting started with git. no deep sh\*\* ;) ✔️🌎
-
 
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/) - Happy Git provides opinionated instructions on how to: Install Git and get it working smoothly with GitHub, in the shell and in the RStudio IDE. Develop a few key workflows that cover your most common tasks. Integrate Git and GitHub into your daily work with R and R Markdown. ✔️🌎
 
@@ -441,7 +388,6 @@ title: "THE bookmarks"
 - [Awesome Developer Resources](https://nelsonmichael.dev/awesome-developer-resources) - A list of useful resources, to help in your development process and put them all in one place, saves you the stress of having to look for all these great resources. ✔️🌎
 
 - [Docusaurus](https://v2.docusaurus.io/) - Build optimized websites quickly, focus on your content. ✔️🌎
-
 
 - [Front Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/) - This is a guide that everyone can use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it in 2019. ✔️🌎
 

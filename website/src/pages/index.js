@@ -10,17 +10,17 @@ const features = [
   {
     title: <a href="docs/about/about-me">About Me</a>,
     imageUrl: "svg/about.svg",
-    description: "TB",
+    description: "",
   },
   {
     title: <a href="blog">Blog</a>,
     imageUrl: "svg/blog.svg",
-    description: "blog",
+    description: "",
   },
   {
     title: <a href="./">Personal Projects</a>,
     imageUrl: "svg/portfolio.svg",
-    description: "In Progress",
+    description: "",
   },
 ];
 
@@ -29,7 +29,7 @@ function Feature({ imageUrl, title, description }) {
   return (
     <div className={classnames("col col--4", styles.feature)}>
       <div className="text--center">
-        <img className={styles.featureImage} src={imgUrl} alt={title} />
+        {/* <img className={styles.featureImage} src={imgUrl} alt={title} /> */}
       </div>
       <h3>{title}</h3>
       <p>{description}</p>
@@ -56,7 +56,7 @@ function Home() {
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className={styles.buttons}>
-            <Link
+            {/* <Link
               className={classnames(
                 "button button--outline button--lg",
                 styles.getStarted
@@ -64,7 +64,7 @@ function Home() {
               to={useBaseUrl("docs/guides/1-getting-started")}
             >
               Get Started
-            </Link>
+            </Link> */}
           </div>
         </div>
       </header>
@@ -79,8 +79,8 @@ function Home() {
           </div>
         </section>
 
-        <section className={classnames(styles.column, styles.description)}>
-          <h2>Favorite Song</h2>
+        {/* <section className={classnames(styles.column, styles.description)}>
+          <h2>Song of the day!</h2>
           <div className={styles.videoContainer}>
             <iframe
               src="https://www.youtube.com/embed/cWGE9Gi0bB0"
@@ -96,7 +96,7 @@ function Home() {
           >
             Enjoy!
           </a>
-        </section>
+        </section> */}
       </main>
     </Layout>
   );
