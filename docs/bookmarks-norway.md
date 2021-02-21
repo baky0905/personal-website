@@ -23,6 +23,7 @@ title: "Awesome Norway - Bookmarks"
 ## Insurance
 
 [forsikringer.no](https://forsikringer.no/) - Collect your insurance - save thousands! Now you can compare terms and find the best deals quickly and easily.
+
 [Gravidforsikring](https://www.if.no/privat/forsikring/personforsikring/gravidforsikring) - Get support and security both during and after pregnancy. The insurance applies from week 16 of pregnancy, and until the child turns 6 months.
 
 ## Law
