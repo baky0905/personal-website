@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/baky0905/personal-web/blog</id>
+    <title>Kristijan Bakaric Blog</title>
+    <updated>2020-10-25T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/baky0905/personal-web/blog"/>
+    <subtitle>Kristijan Bakaric Blog</subtitle>
+    <icon>https://github.com/baky0905/personal-web/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Test blog]]></title>
+        <id>Test blog</id>
+        <link href="https://github.com/baky0905/personal-web/personal-website/blog/2020/10/25/test"/>
+        <updated>2020-10-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[hello]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blog Post]]></title>
+        <id>name-of-the-post-in-url</id>
+        <link href="https://github.com/baky0905/personal-web/personal-website/blog/name-of-the-post-in-url"/>
+        <updated>2020-10-24T00:00:00.000Z</updated>
+    </entry>
+</feed>
