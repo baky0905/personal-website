@@ -36,7 +36,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">[Personal Website](https://baky0905.github.io/personal-website/)</h3>
+  <h3 align="center"><a href="https://baky0905.github.io/personal-website/"><strong>Personal Website »</strong></a> </h3>
 
   <p align="center">
     project_description
