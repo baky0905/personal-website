@@ -15,7 +15,7 @@ title: "Awesome Norway - Bookmarks"
 - [Law and Order](#law-and-order)
 - [Norwegian Language](#norwegian-language)
 - [Personal Finance](#personal-finance)
-- [Real estate](#real-estate)
+- [Real Estate and Renting](#real-estate-and-renting)
 - [Misc](#misc)
 
 ## Babies and Kids
@@ -77,7 +77,9 @@ title: "Awesome Norway - Bookmarks"
 [Smartepenger.no](https://www.smartepenger.no/) - Smart Money is first and foremost about your finances. Learn how to increase your income or save more money. The possibilities are many, and you can start today. A positive attitude towards money makes life better.
 
 
-## Real estate
+## Real Estate and Renting
+
+
 
 [Bidding Behavior in the Housing Market under Different Market Regimes - Article](https://www.mdpi.com/1911-8074/11/3/41) - Bidding Behavior in the Housing Market under Different Market Regimes. The aim of this paper is to investigate whether different market regimes affect bidding behavior in housing auctions. Taking advantage of special circumstances in the Norwegian housing market in 2015 and 2016, we conduct a survey involving 1803 respondents in three of Norway’s largest cities, Oslo, Stavanger and Trondheim.
 
@@ -110,6 +112,8 @@ title: "Awesome Norway - Bookmarks"
 [Shadow Calculator](http://shadowcalculator.eu/) - Sun Shadows on Google Maps.
 
 [Sun Surveyor App (Sun & Moon)](https://play.google.com/store/apps/details?id=com.ratana.sunsurveyor&hl=en_US&gl=US) - Sun Surveyor takes the mystery out of the sunrise, sunset, and moon phases, allowing photographers and filmmakers to scout the best locations, plan effectively, and get the perfect shot.
+
+[The Norwegian Renter's Asscociation](https://www.leieboerforeningen.no/) - Renting can be demanding. Many do not know what rights and duties they have. We are a member organization that secures and secures your everyday life. As a member, you support our work to make life easier and better for all tenants.
 
 ## Misc
 
