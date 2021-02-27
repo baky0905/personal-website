@@ -10,11 +10,12 @@ title: "Awesome Norway - Bookmarks"
 ## Content
 - [Content](#content)
 - [Babies and Kids](#babies-and-kids)
+- [Health](#health)
 - [Insurance](#insurance)
-- [Law](#law)
+- [Law and Order](#law-and-order)
 - [Norwegian Language](#norwegian-language)
 - [Personal Finance](#personal-finance)
-- [Realestate](#realestate)
+- [Real estate](#real-estate)
 - [Misc](#misc)
 
 ## Babies and Kids
@@ -39,6 +40,8 @@ title: "Awesome Norway - Bookmarks"
 [Advokat.no](https://advokat.no/) - Can give you free legal aid. Specialists in labor law, family law, property law, tort cases and much more.
 
 [Jushjelpa.no](https://jushjelpa.no/) - Free legal aid is an aid for people in difficult financial situations. The solution is for the state to cover all or part of the cost you have in connection with legal assistance.
+
+[Legal handbook for foreigners in Norway](./files/haandbok_eng.pdf)
 
 [The Consumer Council](https://www.forbrukerradet.no/) - The Consumer Council is an independent interest organization that helps consumers and influences government and business in a consumer-friendly direction.
 
