@@ -5,7 +5,7 @@ title: About Me
 
 
 <div style={{textAlign: 'center' }}>
-  <img style={{boxShadow: '10px 10px 10px #888888' }} width="400" height="400" src="https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/32313537_1676677232451998_1873056781341556736_n.jpg?_nc_cat=101&ccb=3&_nc_sid=174925&_nc_ohc=mI10bSki9cMAX-LMdPv&_nc_ht=scontent-arn2-1.xx&oh=4de151e3f995db80777c3876ede81916&oe=604ECCA2" />
+  <img style={{boxShadow: '10px 10px 10px #888888' }}  src="./KristijanBakaric.png" />
 </div>
 <br/>
 
