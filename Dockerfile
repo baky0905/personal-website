@@ -1,6 +1,6 @@
 # build stage
 FROM node:12 AS build
-USER node
+USER root
 RUN mkdir /home/node/code
 WORKDIR /home/node/code
 # Only rebuild image when package.json is changed
