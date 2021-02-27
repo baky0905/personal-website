@@ -39,14 +39,17 @@ title: "Awesome Norway - Bookmarks"
 
 [Advokat.no](https://advokat.no/) - Can give you free legal aid. Specialists in labor law, family law, property law, tort cases and much more.
 
+[Equality and Anti-Discrimination Ombud](https://www.ldo.no/en/ldo-english-page/) - The Equality and Anti-Discrimination Ombud represents the interests of those who are discriminated against. We also work to prevent discrimination and promote equality.
+
 [Jushjelpa.no](https://jushjelpa.no/) - Free legal aid is an aid for people in difficult financial situations. The solution is for the state to cover all or part of the cost you have in connection with legal assistance.
 
-[Legal handbook for foreigners in Norway](./files/haandbok_eng.pdf)
+[Legal handbook for foreigners in Norway](/files/haandbok_eng.pdf) - Legal handbook for foreigners in Norway is produced by Jushjelpa i Midt-Norge. Jushjelpa i Midt-Norge are one of five legal aid centers run by students in Norway. 
 
 [The Consumer Council](https://www.forbrukerradet.no/) - The Consumer Council is an independent interest organization that helps consumers and influences government and business in a consumer-friendly direction.
 
 [The Norwegian Tax Administration](https://www.skatteetaten.no/en/person/) - The tax authorities share information that can be used in the public sector, private business and other areas. You can also see what information we have about you. Access to information from the Tax Administration. See information about myself. Rates. Form and services. 
 
+[Your rights as a Consumer, and tips](https://forbrukereuropa.no/en/) - Your rights and tips. Wondering about your rights when travelling, shopping online or renting a car?
 
 ## Norwegian Language
 
