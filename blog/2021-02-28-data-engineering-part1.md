@@ -8,7 +8,7 @@ tags: [dataengineering, projects, azure, python]
 hide_table_of_contents: false
 ---
 
-![](https://images.unsplash.com/photo-1516490981167-dc990a242afe?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2100&q=80)
+![](https://images.unsplash.com/photo-1584033844021-260872c289d2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80)
 
 
 > The Main goal of this post is to introduce an Azure Data Engineering Project where I will prototype streaming and batch processing data pipelines, with the main purpose to ingest and process data that consists of tweets and satellite images extracted from Kaggle datasets.
