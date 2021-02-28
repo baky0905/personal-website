@@ -14,4 +14,17 @@
         <updated>2021-02-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Main goal of this post is to introduce an Azure Data Engineering Project where I will prototype streaming and batch processing data pipelines, with the main purpose to ingest and process data that consists of tweets and satellite images extracted from Kaggle datasets.]]></summary>
     </entry>
+    <entry>
+        <title type="html"><![CDATA[Analysis of Seattle’s Airbnb Data]]></title>
+        <id>Analysis of Seattle’s Airbnb Data</id>
+        <link href="https://baky0905.github.io/personal-website/blog/2020/04/03/analysis-seattle-airbnb"/>
+        <updated>2020-04-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Motivation]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Name]]></title>
+        <id>Name</id>
+        <link href="https://baky0905.github.io/personal-website/blog/2019/10/24/template"/>
+        <updated>2019-10-24T00:00:00.000Z</updated>
+    </entry>
 </feed>
