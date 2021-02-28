@@ -8,15 +8,20 @@ module.exports = {
   favicon: "img/favicon.ico",
   organizationName: "baky0905", // GitHub org/user name.
   projectName: "personal-website", // project name i.e repo name of project
-  //wrapPagesHTML: "true", // Boolean flag to indicate whether HTML files in /pages should be wrapped with Docusaurus site styles, header and foote
-  onBrokenLinks: "error", // https://v2.docusaurus.io/docs/docusaurus.config.js/
+  onBrokenLinks: "error",
+  onBrokenMarkdownLinks: "error",
+
   themeConfig: {
+    colorMode: {
+      defaultMode: "light",
+      disableSwitch: true,
+      respectPrefersColorScheme: true,
+    },
     navbar: {
       title: "KB", // title
       logo: {
-        alt: "My Site Logo",
-        src:
-          "https://images.unsplash.com/photo-1474540412665-1cdae210ae6b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1362&q=80", // path with respect to static dir
+        alt: "Site Logo",
+        src: "img/logo.png", // path with respect to static dir
       },
       items: [
         // {
@@ -30,19 +35,13 @@ module.exports = {
         //   position: "left",
         // },
         { to: "blog", label: "Blog", position: "left" },
-        // {
-        //   to: "docs/", // path to page
-        //   label: "",
-        //   position: "left",
-        // },
-
         {
           to: "docs/bookmarks", // path to page
           label: "THE Bookmarks",
           position: "left",
         },
         {
-          to: "docs/bookmarks-norway", // path to page
+          to: "docs/bookmarks-norway",
           label: "Awesome Norway",
           position: "left",
         },
@@ -61,22 +60,7 @@ module.exports = {
     },
     footer: {
       style: "light",
-      links: [
-        // {
-        //   title: "About",
-        //   items: [
-        //     {
-        //       label: "About",
-        //       to: "docs/",
-        //     },
-        //     // {
-        //     //   label: "",
-        //     //   href:
-        //     //     "",
-        //     // },
-        //   ],
-        // },
-      ],
+      links: [],
       copyright: `Copyright © ${new Date().getFullYear()} Kristijan Bakaric, Built with Docusaurus.`,
     },
     // prism: {

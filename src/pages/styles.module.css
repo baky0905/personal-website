@@ -1,13 +1,14 @@
 /* stylelint-disable docusaurus/copyright-header */
 
-/**
+/* 
  * CSS files with the .module.css suffix will be treated as CSS modules
  * and scoped locally.
- */
+  */
 
+/* 
 .mainImage {
   clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
-}
+} */
 
 .heroBanner {
   padding: 2rem 0 4rem;

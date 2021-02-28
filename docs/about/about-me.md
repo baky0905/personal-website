@@ -3,7 +3,7 @@ id: about-me
 title: About Me
 ---
 
-![](./KristijanBakaric.png)
+![](./KB2.png)
 
 **PROFESSIONAL SUMMARY**
 

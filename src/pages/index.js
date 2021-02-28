@@ -41,17 +41,14 @@ function Home() {
   const context = useDocusaurusContext();
   const { siteConfig = {} } = context;
   return (
-    <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Build performant, native and cross-platform desktop applications with Vue 🚀"
-    >
+    <Layout title={`Hello from ${siteConfig.title}`} description="">
       <header className={classnames("hero hero--primary", styles.heroBanner)}>
         <div className="container">
           <img
             className={styles.mainImage}
-            width="300"
-            height="300"
-            src="https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/13873040_994700733982988_8010722443748572250_n.jpg?_nc_cat=103&ccb=3&_nc_sid=174925&_nc_ohc=HHx2SQJzSrAAX_erckn&_nc_ht=scontent-arn2-1.xx&oh=f7157112ffc01a4f490a6e5a4ef4f217&oe=604FB0A1"
+            width="500px"
+            height="500px"
+            src="img/profile-photos/KB.png"
           />
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
