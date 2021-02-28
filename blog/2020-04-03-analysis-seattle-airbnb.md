@@ -21,7 +21,7 @@ Airbnb, Inc.is an online marketplace for arranging or offering lodging, primaril
 
 Let’s begin by asking questions and interpreting results of the analysis.
 
-# 1st Question
+## 1st Question
 
 > How much AirBnB homes are earning per month in specific neighborhood areas? When do the prices spike?
 
