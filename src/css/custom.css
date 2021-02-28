@@ -102,10 +102,11 @@ blockquote {
 .markdown {
   color: #ffe5d2;
   font-family: "Nunito Sans";
+  font-size: 16px;
 }
 
 .markdown p img {
-  max-width: 80%;
+  max-width: 100%;
   border: 1px solid #ffe5d2;
 }
 

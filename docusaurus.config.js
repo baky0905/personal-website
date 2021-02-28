@@ -36,6 +36,11 @@ module.exports = {
         // },
         { to: "blog", label: "Blog", position: "left" },
         {
+          to: "blog/tags/projects",
+          label: "Projects",
+          position: "left",
+        },
+        {
           to: "docs/bookmarks", // path to page
           label: "THE Bookmarks",
           position: "left",
