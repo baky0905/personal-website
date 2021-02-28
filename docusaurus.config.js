@@ -3,13 +3,13 @@ const path = require("path");
 module.exports = {
   title: "Kristijan Bakaric",
   tagline: "Check out my projects and posts!",
-  url: "https://baky0905.github.io/personal-website", // url where websited is hosted
-  baseUrl: "/", // path where website is available
+  url: "https://baky0905.github.io", // url where websited is hosted
+  baseUrl: "/personal-website/", // path where website is available
   favicon: "img/favicon.ico",
   organizationName: "baky0905", // GitHub org/user name.
   projectName: "personal-website", // project name i.e repo name of project
   //wrapPagesHTML: "true", // Boolean flag to indicate whether HTML files in /pages should be wrapped with Docusaurus site styles, header and foote
-  onBrokenLinks: "ignore", // https://v2.docusaurus.io/docs/docusaurus.config.js/
+  onBrokenLinks: "error", // https://v2.docusaurus.io/docs/docusaurus.config.js/
   themeConfig: {
     navbar: {
       title: "KB", // title
