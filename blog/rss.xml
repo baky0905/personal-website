@@ -4,21 +4,15 @@
         <title>Kristijan Bakaric Blog</title>
         <link>https://baky0905.github.io/blog</link>
         <description>Kristijan Bakaric Blog</description>
-        <lastBuildDate>Sun, 25 Oct 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Test blog]]></title>
-            <link>https://baky0905.github.io/personal-website/blog/2020/10/25/test</link>
-            <guid>Test blog</guid>
-            <pubDate>Sun, 25 Oct 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[hello]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Blog Post]]></title>
-            <link>https://baky0905.github.io/personal-website/blog/name-of-the-post-in-url</link>
-            <guid>name-of-the-post-in-url</guid>
-            <pubDate>Sat, 24 Oct 2020 00:00:00 GMT</pubDate>
+            <title><![CDATA[Data Engineering Project - Intro - Part 1]]></title>
+            <link>https://baky0905.github.io/personal-website/blog/2021/02/28/data-engineering-part1</link>
+            <guid>Data Engineering Project - Intro - Part 1</guid>
+            <pubDate>Sun, 28 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Main goal of this post is to introduce an Azure Data Engineering Project where I will prototype streaming and batch processing data pipelines, with the main purpose to ingest and process data that consists of tweets and satellite images extracted from Kaggle datasets.]]></description>
         </item>
     </channel>
 </rss>

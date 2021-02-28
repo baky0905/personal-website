@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{84:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Data Engineering Project - Intro - Part 1","permalink":"/personal-website/blog/2021/02/28/data-engineering-part1"}]}')}}]);
