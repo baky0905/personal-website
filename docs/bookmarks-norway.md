@@ -24,7 +24,7 @@ title: "Awesome Norway - Bookmarks"
 
 ## Health
 
-[Norwegian Institute of Public Health - FHI(https://www.fhi.no/en/) - The National Institute of Public Health has national tasks in areas such as infection control, mental and physical health, environmental medicine, epidemiology and drugs.
+[Norwegian Institute of Public Health - FHI](https://www.fhi.no/en/) - The National Institute of Public Health has national tasks in areas such as infection control, mental and physical health, environmental medicine, epidemiology and drugs.
 
 
 ## Insurance
