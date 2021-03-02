@@ -51,6 +51,11 @@ module.exports = {
           position: "left",
         },
         {
+          href: "https://www.linkedin.com/in/kristijanb/",
+          label: "LinkedIn",
+          position: "right",
+        },
+        {
           href: "https://github.com/baky0905",
           label: "GitHub",
           position: "right",
@@ -58,7 +63,7 @@ module.exports = {
         {
           to: "docs/about/about-me", // path to page
           //activeBasePath: "docs", // active it url matches regex
-          label: "About",
+          label: "About Me",
           position: "right",
         },
       ],
@@ -94,5 +99,5 @@ module.exports = {
       },
     ],
   ],
-  plugins: [require.resolve("docusaurus-lunr-search")],
+  // plugins: [require.resolve("docusaurus-lunr-search")], goes in paclage.json//"docusaurus-lunr-search": "^2.1.10",
 };
