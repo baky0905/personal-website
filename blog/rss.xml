@@ -4,9 +4,16 @@
         <title>Kristijan Bakaric Blog</title>
         <link>https://baky0905.github.io/blog</link>
         <description>Kristijan Bakaric Blog</description>
-        <lastBuildDate>Sat, 06 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Apr 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Data Engineering Project - Azure APIM, Azure Functions, Blob Storage - Part 3]]></title>
+            <link>https://baky0905.github.io/personal-website/blog/2021/04/06/data-engineering-part3</link>
+            <guid>Data Engineering Project - Azure APIM, Azure Functions, Blob Storage - Part 3</guid>
+            <pubDate>Tue, 06 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[In this post, I will create the first part of the data streaming pipeline which consists of API gateway that will accept API calls and route them to the Azure Function, which will further process the data and (initially) store them to Azure Blob Storage.]]></description>
+        </item>
         <item>
             <title><![CDATA[Data Engineering Project - Pre-process data - Part 2]]></title>
             <link>https://baky0905.github.io/personal-website/blog/2021/03/06/data-engineering-part2</link>
