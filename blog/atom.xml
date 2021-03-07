@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baky0905.github.io/blog</id>
     <title>Kristijan Bakaric Blog</title>
-    <updated>2021-04-06T00:00:00.000Z</updated>
+    <updated>2021-03-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://baky0905.github.io/blog"/>
     <subtitle>Kristijan Bakaric Blog</subtitle>
     <icon>https://baky0905.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Data Engineering Project - Azure APIM, Azure Functions, Blob Storage - Part 3]]></title>
-        <id>Data Engineering Project - Azure APIM, Azure Functions, Blob Storage - Part 3</id>
-        <link href="https://baky0905.github.io/personal-website/blog/2021/04/06/data-engineering-part3"/>
-        <updated>2021-04-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this post, I will explain how I created the first part of the data streaming pipeline which has an API gateway that will accept API calls (with tweet messages) and route them to the Azure Function, that further processes the data and (initially) store them to Azure Blob Storage.]]></summary>
+        <title type="html"><![CDATA[Data Engineering Project - Azure Event Hubs, Azure Functions, Azure Cosmos DB - Part 4]]></title>
+        <id>Data Engineering Project - Azure Event Hubs, Azure Functions, Azure Cosmos DB - Part 4</id>
+        <link href="https://baky0905.github.io/personal-website/blog/2021/03/07/data-engineering-part4"/>
+        <updated>2021-03-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Data Engineering Project - Pre-process data - Part 2]]></title>
@@ -20,6 +20,13 @@
         <link href="https://baky0905.github.io/personal-website/blog/2021/03/06/data-engineering-part2"/>
         <updated>2021-03-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[In this post I will briefly introduce Python functions and scripts that process the data from Kaggle, combine tweets and satellite images into a single file, acting as source data, and building a python program that will send requests to an Azure API endpoint.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Engineering Project - Azure APIM, Azure Functions, Blob Storage - Part 3]]></title>
+        <id>Data Engineering Project - Azure APIM, Azure Functions, Blob Storage - Part 3</id>
+        <link href="https://baky0905.github.io/personal-website/blog/2021/03/06/data-engineering-part3"/>
+        <updated>2021-03-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post, I will explain how I created the first part of the data streaming pipeline which has an API gateway that will accept API calls (with tweet messages) and route them to the Azure Function, that further processes the data and (initially) store them to Azure Blob Storage.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Data Engineering Project - Intro - Part 1]]></title>
