@@ -20,7 +20,7 @@ hide_table_of_contents: false
 
 Now that we have the data in the desired format and with the relevant content, we can embark in the world of Azure where we will select a suite of services that will assist us in reaching our goal, and that is to build a data streaming pipeline.
 
-In this blog post I will describe the following three Azure services (see also the diagram below):
+In this blog post I touch upon following Azure services (see also the diagram below):
 
 
 - [Azure API Management](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)

@@ -59,6 +59,8 @@ Azure Cosmos DB has a nice data explorer tab that is available in the Azure port
 
 After sending 10000s of HTTP requests to the API endpoint, it is evident (see figure  below) after querying the tweets container via data explorer, that messages are successfully written to the database.
 
+![](2021-03-08-data-engineering-part4/cosmosdb-data-explorer.png)
+
 ## Step 3 - Azure Function: Triggered by Azure Event Hub and Write to Azure Cosmos DB
 
 In the previous step I have already tested the function I am going to describe in this section because it was a dependency needed to write the events to the database.
