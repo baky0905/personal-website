@@ -32,7 +32,7 @@ In this blog post I will describe the following three Azure services (see also t
 - [Azure Blob Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction) 
 
 
-![](./2021-03-06-data-engineering-part3/diagramme.png)
+![](./2021-03-07-data-engineering-part3/diagramme.png)
 Figure 1: Diagramme of the data preparation process.
 
 # Step 1 - Azure API Management
@@ -47,9 +47,9 @@ My API gateway in APIM:
 
 Settings in the API were configured as follows:
 
-![](2021-03-06-data-engineering-part3/api-settings1.png)
+![](2021-03-07-data-engineering-part3/api-settings1.png)
 
-![](2021-03-06-data-engineering-part3/api-settings2.png)
+![](2021-03-07-data-engineering-part3/api-settings2.png)
 
 What is important to notice that `Subscription Required` is toggled on.
 When you publish APIs through API Management, it's easy and common to secure access to those APIs by using subscription keys, which I immediately did leave as it was by default - with subscription required.
@@ -64,11 +64,11 @@ The following is the overview of the steps I did to enable a Basic Authenticatio
 
 1) Enabled managed identity for API management.
 2) Created a Key Vault in Azure.
-   ![](2021-03-06-data-engineering-part3/key_vault.png)
+   ![](2021-03-07-data-engineering-part3/key_vault.png)
 3) Enabled access to the key vault secrets from API management.
 4) Added demoUserName and demoUserPassword as keys, and values as actual username and passwords.
 5) Create a Named value in the API Management with the Key Vault URL, password and username.
-   ![](2021-03-06-data-engineering-part3/key_vault2.png)
+   ![](2021-03-07-data-engineering-part3/key_vault2.png)
 6) In the inbound part of your Policy definition, added the following code:
         
         ```
@@ -113,7 +113,7 @@ Azure Function App consists of two Azure Functions as a part of an Azure streami
 
     `./HttpTriggerTweetToBlobAndEventHub`
 
-![](2021-03-06-data-engineering-part3/http-func.png)   
+![](2021-03-07-data-engineering-part3/http-func.png)   
 
 I will not go into details of the development environment (Locally developed on WSL2 with Ubuntu 20.04 via Visual Studio Code and its plugins for Azure Services), and Python code itself since it is anyway very simple.
 
@@ -202,11 +202,11 @@ This is how my binding is defined in the Azure Function bindings definition:
 
 It is obvious that after successfully sending an x number of HTTP requests with tweets to an API endpoint, and thus to Azure function backend, all messages were successfully written as JSON files with a rand-guid id as the filename.
 
-![](2021-03-06-data-engineering-part3/blob_output.png)  
+![](2021-03-07-data-engineering-part3/blob_output.png)  
 
 This is the content of one example tweet opened directly in blob storage:
 
-![](2021-03-06-data-engineering-part3/json_example.png) 
+![](2021-03-07-data-engineering-part3/json_example.png) 
 
 ## In the Next Post...
 
