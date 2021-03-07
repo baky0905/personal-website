@@ -100,7 +100,7 @@ The following is the overview of the steps I did to enable a Basic Authenticatio
 
     `Authorization Basic <Base64 representation of the combination username:password>`
 
-   - HTTP triggered Azure function was execured succesfully with a 200 OK status.
+   - HTTP triggered Azure function was executed successfully with a 200 OK status.
 
 
 Now that I have a double secure way of consuming created API, let us rewind a bit, and go to a prerequisite and that is creating an Azure Function that will act as a backend and have bindings to Azure Blob Storage and Azure Events Hub.
