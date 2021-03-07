@@ -46,8 +46,8 @@ function Home() {
         <div className="container">
           <img
             className={styles.mainImage}
-            width="500px"
-            height="500px"
+            width="500"
+            height="500"
             src="img/profile-photos/KB.png"
           />
           <h1 className="hero__title">{siteConfig.title}</h1>
