@@ -20,7 +20,7 @@ hide_table_of_contents: false
 
 In this post, I will cover the section of the pipeline that goes from event Ingestor - Azure Event Hubs to writing messages in a No-SQL CosmosDB, and finally querying the database via Power BI Desktop  connector with a few simple charts.
 
-![](2021-03-07-data-engineering-part4/diagram.png)
+![](2021-03-08-data-engineering-part4/diagram.png)
 
 ##  Step 1 - Azure Event Hubs
 
@@ -32,7 +32,7 @@ For more information, please check the [Microsoft Docs]([Event Hubs](https://doc
 
 In the Event Hub I created, I chose two partitions with message retention of 1 day. As you can see from the service, you also have a lot of extra functionality to choose from which I decided to ignore for the time being, like using Capture events to save your events to persistent storage (that section in my pipeline is taken care of by Azure Function which writes the messages to blob storage). Then there are also options to do checkpoints and processing of data.
 
-![](2021-03-07-data-engineering-part4/event_hub.png)
+![](2021-03-08-data-engineering-part4/event_hub.png)
 
 To define important concepts of:
 
@@ -65,7 +65,7 @@ In the previous step I have already tested the function I am going to describe i
 
 By its nature, it is a very simple Azure function that has a trigger to respond to an event sent to an event hub event stream, when the function is triggered, the message passed to the functions is typed as a string, and written to a binding defined as Cosmos DB, hurricane database and tweets container/collection.
 
-![](2021-03-07-data-engineering-part4/events-to-cosmos-func.png)
+![](2021-03-08-data-engineering-part4/events-to-cosmos-func.png)
 
 Configuration as defined in `function.json`:
 
@@ -103,7 +103,7 @@ You can easily visualize Cosmos DB data in Power BI by using the [connector avai
 
 After connecting to the data and creating a few charts we can see the result on a screenshot. The figure shows the number of tweets, their locations on the map, together with the most common damage flags, and a table with the actual tweet messages.
 
-![](2021-03-07-data-engineering-part4/pbi-visual.png)
+![](2021-03-08-data-engineering-part4/pbi-visual.png)
 
 ## In the Next Post...
 
