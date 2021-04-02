@@ -4,9 +4,16 @@
         <title>Kristijan Bakaric Blog</title>
         <link>https://baky0905.github.io/blog</link>
         <description>Kristijan Bakaric Blog</description>
-        <lastBuildDate>Mon, 08 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Apr 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[From Markdown to a Docusaurus Website via GitHub, gh Actions, and gh pages]]></title>
+            <link>https://baky0905.github.io/personal-website/blog/2021/04/02/docusaurus</link>
+            <guid>From Markdown to a Docusaurus Website via GitHub, gh Actions, and gh pages</guid>
+            <pubDate>Fri, 02 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[In this blog I will transfer you the gist of how to go from existing markdown written content]]></description>
+        </item>
         <item>
             <title><![CDATA[Data Engineering Project - Azure Event Hubs, Function and Cosmos DB - Part 4]]></title>
             <link>https://baky0905.github.io/personal-website/blog/2021/03/08/data-engineering-part4</link>
