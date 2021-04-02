@@ -149,7 +149,7 @@ CookBook
 
 - `CNAME` file - that is only relevant if you are going to have a custom subdomain, and not a default github pages. This file contains the url to the subdomain that was created, in our case via AWS, and it is important that the file is located under `static` folder since after the build it will be located under the `root` of the site on `gh-pages` branch, otherwise every time you build the site, the AWS configuration will be cleared up, and that is not good if you want to automate the entire workflow.
 
-## How to Configure Navigation, Sidebar, and the Landing Page
+## Step 3 - How to Configure Navigation, Sidebar, and the Landing Page
 
 Even though you can get all the details on how tos on [Docusaurus Docs Introduction](https://docusaurus.io/docs/docs-introduction), I will briefly examplify how to configure navigation, sidebar and the landing page, just for the sake of relating it to our example.
 
@@ -178,6 +178,7 @@ title: ' '
 ---
 ```
 
+For running shell scripts via GitHub Actions, reference [this article](https://medium.com/@akash1233/change-file-permissions-when-working-with-git-repos-on-windows-ea22e34d5cee) in case you run into permission issues.
 
 - To configure **the front page**
 
@@ -194,7 +195,7 @@ For more information about markdown features check the [markdown guide](https://
 
 
 
-## Step 3 — Summary of the CI/CD Automation Setup via GitHub Actions
+## Step 4 — Summary of the CI/CD Automation Setup via GitHub Actions
 
 Automation workflow consists of two Github actions as follows:
 
