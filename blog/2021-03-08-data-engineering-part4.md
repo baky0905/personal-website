@@ -107,8 +107,3 @@ After connecting to the data and creating a few charts we can see the result on 
 
 ![](2021-03-08-data-engineering-part4/pbi-visual.png)
 
-## In the Next Post...
-
-Prototype for the streaming part of the data pipeline is done :)
-
-In the next post, you can expect a walk through a Python Streamlit web app, that I will host on Azure App Service.

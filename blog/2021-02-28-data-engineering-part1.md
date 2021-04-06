@@ -11,7 +11,7 @@ hide_table_of_contents: false
 ![](https://images.unsplash.com/photo-1584033844021-260872c289d2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80)
 
 
-> The Main goal of this post is to introduce an Azure Data Engineering Project where I will prototype streaming and batch processing data pipelines, with the main purpose to ingest and process data that consists of tweets and satellite images extracted from Kaggle datasets.
+> The Main goal of this post is to introduce an Azure Data Engineering Project where I will prototype streaming a processing data pipeline, with the main purpose to ingest and process data that consists of tweets and satellite images extracted from Kaggle datasets.
 
 Personal motivation for this project is to explore Azure in the light of data engineering and its service offerings.
 
@@ -31,9 +31,6 @@ The upcoming posts will consist of writing about:
   
        - ![](./2021-02-28-data-engineering-part1/streaming-pipeline.png)
 
-  - Azure batch data pipeline that will take daily tweets in a form of CSV reports, process them and store them to the same serving data store, Azure Cosmos Database.
-
-  - Python Streamlit Web App (acting as a prototype) that sources data from Cosmos DB, and visualises it in a set of insightful charts. It will be deployed on Azure Web App Service. 
 
 ## Data
 

@@ -1,36 +1,24 @@
 
 ![](./static/website.png)
 
-<br />
-<p align="center">
-  <a href="https://github.com/baky0905/personal-website">
-  </a>
-
-  <h3 align="center"><a href="https://baky0905.github.io/personal-website/"><strong> [Personal Website](https://baky0905.github.io/personal-website/)</strong></a> </h3>
+# [Personal Website](https://baky0905.github.io/personal-website/)
 
 
-    ·
-    <a href="https://github.com/baky0905/personal-website/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/baky0905/personal-website/issues">Request Feature</a>
-  </p>
-</p>
-
-
-
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Development and configuration](#development-and-configuration)
-  - [Running the development server](#running-the-development-server)
-  - [Build](#build)
-  - [Project Structure](#project-structure)
-- [Details of CI/CD automation setup](#details-of-cicd-automation-setup)
-  - [Workflow](#workflow)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Personal Website](#personal-website)
+    - [Built With](#built-with)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  - [Development and configuration](#development-and-configuration)
+    - [Running the development server](#running-the-development-server)
+    - [Build](#build)
+    - [Project Structure](#project-structure)
+  - [Details of CI/CD automation setup](#details-of-cicd-automation-setup)
+    - [Workflow](#workflow)
+  - [Roadmap](#roadmap)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
 
 
 ### Built With
