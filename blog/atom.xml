@@ -40,7 +40,7 @@
         <id>Data Engineering Project - Intro - Part 1</id>
         <link href="https://baky0905.github.io/personal-website/blog/2021/02/28/data-engineering-part1"/>
         <updated>2021-02-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Main goal of this post is to introduce an Azure Data Engineering Project where I will prototype streaming and batch processing data pipelines, with the main purpose to ingest and process data that consists of tweets and satellite images extracted from Kaggle datasets.]]></summary>
+        <summary type="html"><![CDATA[The Main goal of this post is to introduce an Azure Data Engineering Project where I will prototype streaming a processing data pipeline, with the main purpose to ingest and process data that consists of tweets and satellite images extracted from Kaggle datasets.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Analysis of Seattle’s Airbnb Data]]></title>
