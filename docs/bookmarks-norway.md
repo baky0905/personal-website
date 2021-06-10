@@ -131,8 +131,8 @@ title: "Awesome Norway - Bookmarks"
 
 ## Misc 🗑️🗑️🗑️🗑️
 
-[FÅ EN HJELPENDE HÅND
-MED SMÅJOBBENE](https://luado.no/)
+[Luado.no Få en hjelpende hånd
+med småjobbene](https://luado.no/)
 
 [forum.kvinneguiden.no](https://forum.kvinneguiden.no/) - Norway's largest online community for women.
 
