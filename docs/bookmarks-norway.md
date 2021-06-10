@@ -131,6 +131,9 @@ title: "Awesome Norway - Bookmarks"
 
 ## Misc 🗑️🗑️🗑️🗑️
 
+[FÅ EN HJELPENDE HÅND
+MED SMÅJOBBENE](https://luado.no/)
+
 [forum.kvinneguiden.no](https://forum.kvinneguiden.no/) - Norway's largest online community for women.
 
 [Statistics Biro Norway](https://www.ssb.no/en/) - Statistics Norway has overall responsibility for providing statistics on Norwegian society. Home - SSB The CSS file did not download correctly, the screen reader does not support CSS, or your version of Internet Explorer is too old for this website.
