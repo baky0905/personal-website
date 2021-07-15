@@ -79,7 +79,10 @@ title: "THE bookmarks"
 
 - [Code House](https://codehouse.vercel.app/app) - the all in one storehouse for developer cheatsheets. Code House is made up of 300+ curated cheatsheets from 230+  
 
+- [Programming Notes for Professionals books](https://books.goalkicker.com/)
+
 - [Tidy Data Principles](https://vita.had.co.nz/papers/tidy-data.pdf) - Tidy datasets are easy to manipulate, model and visualise, and have a specific structure: each variable is a column, each observation is a row, and each type of observational unit is a table. ✔️🌎
+
 
 ## Business Analytics
 
