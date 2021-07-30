@@ -45,10 +45,8 @@ title: "THE bookmarks"
 
 ## Emoji legend:
 
-- 🌎 - public
 - 💲 - paid
 - ❌ - broken link or needs a revision
-- ✔️ - link is online
 - 🔥 - very important
 
 ---
@@ -59,17 +57,15 @@ title: "THE bookmarks"
 
 🔌🔌🔌🔌
 
-- [API guide from Zapier](https://zapier.com/learn/apis/) - An Introduction to API's. Have you ever wondered how Facebook is able to automatically display your Instagram photos? ✔️🌎
+- [API guide from Zapier](https://zapier.com/learn/apis/) - An Introduction to API's. Have you ever wondered how Facebook is able to automatically display your Instagram photos? 
+
+- [Hoppscotch](https://hoppscotch.io/fr/) - Almost everyone knows Postman or Insomnia to test these APIs. Hoppscotch is exactly the same, but directly in the browser!
 
 ## Azure
 
 🌨️🌨️🌨️🌨️🌨️
 
 - [Azure Charts](https://azurecharts.com/) - Live interactive visual guide to Azure Cloud's current state. ✔️🌎
-
-- [Azure Databricks](https://databricks.com/) - Unified Data Analytics Platform - One cloud platform for massive scale data engineering and collaborative data science. ✔️🌎
-
-- [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) - Automate your builds and deployments with Pipelines so you spend less time with the nuts and bolts and more time being creative. ✔️🌎
 
 - [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/) - this site is a special collection of over 260+ tips, videos, conference talks that span the entire universe of the Azure platform. The tips you'll find here are based on real-world scenarios that I've encountered (along with the community) while using Azure. Feel free to jump in and come back weekly for new tips!
 
@@ -213,13 +209,9 @@ title: "THE bookmarks"
 
 💡💡💡💡💡
 
-- [Schlumberger's journey](https://powerapps.microsoft.com/en-us/blog/schlumberger/) - An article on how prolific app maker ignites low code revolution and Schlumberger ✔️🌎
-
 ## Integrated Development Environments (IDE) and Editors
 
 💻💻💻💻💻
-
-- [Typora](https://typora.io/) - Minimalist markdown editor which removes the preview window, mode switcher, syntax symbols of markdown source code, and all other unnecessary distractions, replacing them with a real-time preview to help you concentrate on the content itself. ✔️🌎
 
 - [RStudio](https://www.rstudio.com) – RStudio is an integrated development environment (IDE) with all of the tools required to work with R in one place (console, source, plots, workspace, help, history, syntax highlighting,...). ✔️🌎
 
@@ -292,7 +284,7 @@ title: "THE bookmarks"
 
 - [scikit-learn (Machine Learning in Python)](https://scikit-learn.org/stable/index.html) - Simple and efficient tools for predictive data analysis. ✔️🌎
 
-## Programming languages with an emphasis on Data Science / Data Analytics
+## Programming languages 
 
 🔟🔟🔟🔟🔟
 
@@ -414,6 +406,39 @@ title: "THE bookmarks"
 ## Other - to be assigned to a category above
 
 🗑️🗑️🗑️🗑️🗑️
+
+- [Carbon](https://carbon.now.sh/) - Carbon is quite simply the most widely used code presentation generator.
+	- It’s handy! The equivalent in [VSCode extension](https://marketplace.visualstudio.com/items?itemName=ericadamski.carbon-now-sh) also exists.
+
+- [Cloudflare Speed Test](https://speed.cloudflare.com/) - With one click, it tells you everything about your current connection status.
+
+- [CodeElf](https://unbug.github.io/codelf/) - It instantly searches Github, GitLab and Bitbucket to see if your naming idea is popular! There’s a greater chance your idea will be good if it’s already been used by thousands of developers before you.
+
+- [CodeSandbox](https://codesandbox.io/) - A free, instant and collaborative sandbox code editor for all your needs! It’s really fast and you can host whatever you want as a small static app.
+
+- [Crontab Guru](https://crontab.guru/) - allows you to validate exactly how your future cron will behave before programming it.
+
+- [DevDocs](https://devdocs.io/) - It would be cool to have access to all the docs of all the frameworks/languages in one well-organized place.
+
+- [DevHints.io](https://devhints.io/) - You can think of any language tools or frameworks used by developers, you will find the cheatsheet on this site
+
+- [Excalidraw](https://excalidraw.com/) - Excalidraw is a whiteboard that allows you to easily draw your plan as if it were handmade!
+
+- [ExplainShell](https://explainshell.com/) - allows to copy/paste any command is to have a complete explanation!
+
+- [Pomofocus](https://pomofocus.io/) - is the best web management tool for the pomodoro technique I’ve ever seen.
+
+- [JSON Editor Online](https://jsoneditoronline.org/#left=local.dozape) - JSON Online Editor
+
+- [Learn X in Y minutes](https://learnxinyminutes.com/) - Every possible language, explained in one page, in almost every language, through concrete examples of code
+
+- [Music](https://music.reaper.im/) - Simple keyboard focused player using youtube as source.
+
+- [Photopea](https://www.photopea.com/) - is just free Photoshop in the browser.
+
+- [Regex101](https://regex101.com/) - Regex Online
+
+- [Squoosh](https://squoosh.app/) - Most huge images – in terms of weight – can be reduced by 60% without losing quality.
 
 - [Data Science Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world. ✔️🌎
 
