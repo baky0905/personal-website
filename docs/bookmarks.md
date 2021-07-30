@@ -32,8 +32,7 @@ title: "THE bookmarks"
 - [Machine Learning and Deep Learning](#machine-learning-and-deep-learning)
 - [Programming languages with an emphasis on Data Science / Data Analytics](#programming-languages-with-an-emphasis-on-data-science--data-analytics)
 - [Project and Backlog Management](#project-and-backlog-management)
-- [Reproducible Research](#reproducible-research)
-- [Screencasting](#screencasting)
+- [Reproducible Research](#reprodu
 - [Spatial Data](#spatial-data)
 - [Templates](#templates)
 - [User Experience - UX](#user-experience---ux)
@@ -130,12 +129,13 @@ title: "THE bookmarks"
 
 💾💾💾💾💾
 
-## Data Engineering
-
-
 - [Relational Databases 101](https://dev.to/lmolivera/everything-you-need-to-know-about-relational-databases-3ejl) -Everything you need to know about (Relational) Databases. ✔️🌎
 
 - [SQLalchemy - Python](https://docs.sqlalchemy.org/en/13/index.html) - A popular Python library for connecting our python script to the database. Tutorial with an example on [Medium](https://medium.com/swlh/python-database-connection-with-sqlalchemy-3730904a43b4) ✔️🌎
+
+## Data Engineering
+
+🛠🛠🛠🛠🛠
 
 ## Design
 
@@ -206,7 +206,6 @@ title: "THE bookmarks"
 
 🛣️🛣️🛣️🛣️🛣️
 
-- [Agile Product Ownership](https://www.youtube.com/watch?v=502ILHjX9EE&feature=youtu.be) - 1 day product ownership course compressed into 15 minute animated presentation. There's obviously more to product ownership than this, so see this is a high level summary. ✔️🌎
 
 ## Inspiration
 
@@ -215,8 +214,6 @@ title: "THE bookmarks"
 ## Integrated Development Environments (IDE) and Editors
 
 💻💻💻💻💻
-
-- [RStudio](https://www.rstudio.com) – RStudio is an integrated development environment (IDE) with all of the tools required to work with R in one place (console, source, plots, workspace, help, history, syntax highlighting,...). ✔️🌎
 
 - [Visual Studio Code](https://code.visualstudio.com/) - Visual Studio Code is a source-code editor developed by Microsoft for Windows, Linux and macOS. ✔️🌎
 
@@ -283,27 +280,24 @@ title: "THE bookmarks"
 
 - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) - Google Developers' free course with reading materials, videos and exercises on TensorFlow 2.0 (uses Google Colab - no need to install python or libraries). ✔️🌎
 
-- [Pytorch (Deep Learning framework in Python)](https://pytorch.org/) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. ✔️🌎
-
-- [scikit-learn (Machine Learning in Python)](https://scikit-learn.org/stable/index.html) - Simple and efficient tools for predictive data analysis. ✔️🌎
 
 ## Programming languages 
 
 🔟🔟🔟🔟🔟
 
-- [Applications of Data Science](https://dsapps-2020.github.io/Class_Slides/) - Introduction to the Applications of Data Science in R and Python. ✔️🌎
+- [Applications of Data Science](https://dsapps-2020.github.io/Class_Slides/) - Introduction to the Applications of Data Science in R and Python. 
 
-- [Anaconda is bloated](https://medium.com/dunder-data/anaconda-is-bloated-set-up-a-lean-robust-data-science-environment-with-miniconda-and-conda-forge-b48e1ac11646) - In this tutorial, author will describe a process for setting up a lean and robust Python data science environment on your system with Miniconda and Conda-Forge. ✔️🌎
+- [Anaconda is bloated](https://medium.com/dunder-data/anaconda-is-bloated-set-up-a-lean-robust-data-science-environment-with-miniconda-and-conda-forge-b48e1ac11646) - In this tutorial, author will describe a process for setting up a lean and robust Python data science environment on your system with Miniconda and Conda-Forge. 
 
-- [Awesome Python Data Science List](https://github.com/krzjoa/awesome-python-data-science#readme) -Probably the best curated list of data science software in Python. ✔️🌎
+- [Awesome Python Data Science List](https://github.com/krzjoa/awesome-python-data-science#readme) -Probably the best curated list of data science software in Python. 
 
 - [Modern Data Science with R](https://beanumber.github.io/mdsr2e/) - As the title says it is a modern approach to data science with R. ✔️🌎
 
-- [Python Cookbook](https://www.dawsonera.com/readonline/9781449357368/startPage/1) - If you need help writing programs in Python 3, this book is just the ticket. Packed with practical recipes written and tested with Python 3.3, this unique cookbook is for experienced Python programmers who want to focus on modern tools and idioms. 🌎❌
+- [Python Cookbook](https://www.dawsonera.com/readonline/9781449357368/startPage/1) - If you need help writing programs in Python 3, this book is just the ticket. Packed with practical recipes written and tested with Python 3.3, this unique cookbook is for experienced Python programmers who want to focus on modern tools and idioms. 
 
-- [R for Data Science](https://r4ds.had.co.nz/) - This book will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it. ✔️🌎
+- [R for Data Science](https://r4ds.had.co.nz/) - This book will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it. 
 
-- [Writing Readable Code](https://www.youtube.com/watch?v=SPlS4kW0UbE) -Having readable code is a prerequisite to scaling your product and the organization behind it. Hard-to-read code not only intimidates your co-workers (and your future self) but also conceals bugs and hurts your team’s velocity, since every modification takes twice as long as it should. ✔️🌎
+- [Writing Readable Code](https://www.youtube.com/watch?v=SPlS4kW0UbE) -Having readable code is a prerequisite to scaling your product and the organization behind it. Hard-to-read code not only intimidates your co-workers (and your future self) but also conceals bugs and hurts your team’s velocity, since every modification takes twice as long as it should. 
 
 ## Project and Backlog Management
 
@@ -313,24 +307,14 @@ title: "THE bookmarks"
 
 🔬🔬🔬🔬🔬
 
-- [Jupyter Notebook and Jupyter Lab](https://jupyter.org/) - The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. JupyterLab is a web-based interactive development environment for Jupyter notebooks, code, and data. ✔️🌎
-
-- [R Markdown](https://rmarkdown.rstudio.com/) - R Markdown provides an authoring framework for data science. R Markdown documents are fully reproducible and support dozens of static and dynamic output formats. ✔️🌎
-
-  - [Free e-book about R Markdown](https://bookdown.org/yihui/rmarkdown/) ✔️🌎
-
-## Screencasting
-
-🎦 🎦 🎦 🎦 🎦
+- [Free e-book about R Markdown](https://bookdown.org/yihui/rmarkdown/) ✔️🌎
 
 
 ## Spatial Data
 
 🗺️🗺️🗺️🗺️🗺️
 
-- [Geocomputation with R (E-book)](https://geocompr.robinlovelace.net/) - This is the online home of Geocomputation with R, a book on geographic data analysis, visualization and modeling. ✔️🌎
-
-- [GeoPandas (Python)](https://geopandas.org/) - Open source project to make working with geospatial data in python easier. ✔️🌎
+- [Geocomputation with R (E-book)](https://geocompr.robinlovelace.net/) - This is the online home of Geocomputation with R, a book on geographic data analysis, visualization and modeling. 
 
 - [Introduction to Web Mapping](http://geobgu.xyz/web-mapping/index.html) - Simple and easy to grasp approach to introducing concepts of web technologies like CSS, HTML, JavaScript, webservers, leaflet, geoJSON, spatial queries,... ✔️🌎
 
@@ -349,62 +333,36 @@ title: "THE bookmarks"
 
 🛃🛃🛃🛃🛃
 
-- [git for humans](https://www.youtube.com/watch?v=eWxxfttcMts) - Making unfriendly git friendly. - [slides](https://speakerdeck.com/alicebartlett/git-for-humans) ✔️🌎
+- [git for humans](https://www.youtube.com/watch?v=eWxxfttcMts) - Making unfriendly git friendly. - [slides](https://speakerdeck.com/alicebartlett/git-for-humans) 
 
-- [git - the simple guide](https://rogerdudler.github.io/git-guide/) - Just a simple guide for getting started with git. no deep sh\*\* ;) ✔️🌎
+- [git - the simple guide](https://rogerdudler.github.io/git-guide/) - Just a simple guide for getting started with git. no deep sh\*\* ;) ✔
 
-- [Happy Git and GitHub for the useR](https://happygitwithr.com/) - Happy Git provides opinionated instructions on how to: Install Git and get it working smoothly with GitHub, in the shell and in the RStudio IDE. Develop a few key workflows that cover your most common tasks. Integrate Git and GitHub into your daily work with R and R Markdown. ✔️🌎
+- [Happy Git and GitHub for the useR](https://happygitwithr.com/) - Happy Git provides opinionated instructions on how to: Install Git and get it working smoothly with GitHub, in the shell and in the RStudio IDE. Develop a few key workflows that cover your most common tasks. Integrate Git and GitHub into your daily work with R and R Markdown. 
 
 ## Visualization
 
 📈📈📈📈📈
 
-- [Altair (python)](https://altair-viz.github.io/) - This elegant simplicity produces beautiful and effective visualizations with a minimal amount of code. Implements Grammar of graphics. ✔️🌎
 
 - [Fundamentals of Data Visualization (e-book)](https://serialmentor.com/dataviz/) - The e-book is meant as a guide to making visualizations that accurately reflect the data, tell a story, and look professional. ✔️🌎
-
-- [ggplot2: Elegant Graphics for Data Analysis (R e-book)](https://ggplot2-book.org/index.html) - ggplot2 is an R package for producing statistical, or data, graphics, but it is unlike most other graphics packages because it has a deep underlying grammar. ✔️🌎
-
-- [Graphviz](https://www.graphviz.org/) - Graphviz is open source graph visualization software. Graph visualization is a way of representing structural information as diagrams of abstract graphs and networks. ✔️🌎
-
-- [HoloViz: Browser based visualization in python](https://holoviz.org/) - Holoviz HoloViz is a coordinated effort to make browser-based data visualization in Python easier to use. Holoviz maintained libraries include: panel, hvPlot, HoloViews, Geoviews, Datashader, Param, Colorcet. Both Bokeh, Matplotlib and Plotly can be used as plotting engines. Enable interactivity in plotting. Building on [PyViz](https://pyviz.org/) ecosystem. ✔️🌎
-
-- [Jupyter-dash](https://github.com/plotly/jupyter-dash) - This library makes it easy to develop Plotly Dash apps interactively from within Jupyter environments (e.g. classic Notebook, JupyterLab, Visual Studio Code notebooks, nteract, PyCharm notebooks, etc.). ✔️🌎
-
-- [Plotly Express (python)](https://plot.ly/python/plotly-express/) - Plotly Express is a compact, consistent, high-level wrapper around plotly.graph_objects for rapid data exploration and figure generation. ✔️🌎
-
-- [PyViz](https://pyviz.org/) - Ecosystem for helping users decide on the best open-source (OSS) Python data visualization tools for their purposes. [PyViz example gallery](https://examples.pyviz.org/#) ✔️🌎
-
-- [seaborn](https://seaborn.pydata.org/) - Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics. ✔️🌎
-
-- [Tables in R](https://themockup.blog/posts/2020-09-04-10-table-rules-in-r/) - 10+ guidelines for better tables in R. ✔️🌎
 
 
 ## Web development
 
 🕸️🕸️🕸️🕸️🕸️
 
-- [Awesome Developer Resources](https://nelsonmichael.dev/awesome-developer-resources) - A list of useful resources, to help in your development process and put them all in one place, saves you the stress of having to look for all these great resources. ✔️🌎
+- [Awesome Developer Resources](https://nelsonmichael.dev/awesome-developer-resources) - A list of useful resources, to help in your development process and put them all in one place, saves you the stress of having to look for all these great resources. 
 
-- [Docusaurus](https://v2.docusaurus.io/) - Build optimized websites quickly, focus on your content. ✔️🌎
 
 - [Front Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/) - This is a guide that everyone can use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it in 2019. ✔️🌎
 
-- [Hugo](https://gohugo.io/) - Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again. ✔️🌎
-
-- [Markdown](https://www.markdownguide.org/) - Markdown is a lightweight markup language with plain-text-formatting syntax. ✔️🌎
-
-  - [Markdown Cheatsheet](https://commonmark.org/help/) ✔️🌎
-
-  - [10 min interactive tutorial](https://commonmark.org/help/tutorial/) ✔️🌎
-
 - [Power Apps](https://docs.microsoft.com/en-us/powerapps/powerapps-overview) - Power Apps is a suite of apps, services, connectors and data platform that provides a rapid application development environment to build custom apps for your business needs. ✔️🌎
 
-  - [Building Multilingual Apps](https://docs.microsoft.com/en-us/archive/blogs/carlosfigueira/building-multilingual-apps-in-powerapps) ✔️🌎
+  - [Building Multilingual Apps](https://docs.microsoft.com/en-us/archive/blogs/carlosfigueira/building-multilingual-apps-in-powerapps) 
 
   - [Power Apps Component Framework collection](https://pcf.gallery/) - PCF Gallery is a collection of controls created with the Power Apps Component Framework. ✔️🌎
 
-- [Web Skills](https://andreasbm.github.io/web-skills/) - Web Skills is a visual overview of useful skills to learn as a web developer. ✔️🌎
+- [Web Skills](https://andreasbm.github.io/web-skills/) - Web Skills is a visual overview of useful skills to learn as a web developer. 
 
 ## Other - to be assigned to a category above
 
