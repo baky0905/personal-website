@@ -32,7 +32,7 @@ title: "THE bookmarks"
 - [Machine Learning and Deep Learning](#machine-learning-and-deep-learning)
 - [Programming languages with an emphasis on Data Science / Data Analytics](#programming-languages-with-an-emphasis-on-data-science--data-analytics)
 - [Project and Backlog Management](#project-and-backlog-management)
-- [Reproducible Research](#reprodu
+- [Reproducible Research](#reproducible/research(
 - [Spatial Data](#spatial-data)
 - [Templates](#templates)
 - [User Experience - UX](#user-experience---ux)
@@ -42,12 +42,6 @@ title: "THE bookmarks"
 - [Other - to be assigned to a category above](#other---to-be-assigned-to-a-category-above)
 
 ---
-
-## Emoji legend:
-
-- 💲 - paid
-- ❌ - broken link or needs a revision
-- 🔥 - very important
 
 ---
 
