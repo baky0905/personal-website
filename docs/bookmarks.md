@@ -15,27 +15,22 @@ title: "THE bookmarks"
 ## Contents
 
 - [Contents](#contents)
-- [Emoji legend:](#emoji-legend)
 - [API](#api)
 - [Azure](#azure)
 - [Best Practice and Key Documents](#best-practice-and-key-documents)
 - [Business Analytics](#business-analytics)
-- [Collaboration](#collaboration)
 - [Courses](#courses)
 - [Data Wrangling and related](#data-wrangling-and-related)
 - [Databases](#databases)
 - [Data Engineering](#data-engineering)
 - [Design](#design)
-- [How we work](#how-we-work)
 - [Inspiration](#inspiration)
 - [Integrated Development Environments (IDE) and Editors](#integrated-development-environments-ide-and-editors)
 - [Machine Learning and Deep Learning](#machine-learning-and-deep-learning)
 - [Programming languages with an emphasis on Data Science / Data Analytics](#programming-languages-with-an-emphasis-on-data-science--data-analytics)
-- [Project and Backlog Management](#project-and-backlog-management)
 - [Reproducible Research](#reproducible/research(
 - [Spatial Data](#spatial-data)
 - [Templates](#templates)
-- [User Experience - UX](#user-experience---ux)
 - [Version Control](#version-control)
 - [Visualization](#visualization)
 - [Web development](#web-development)
@@ -69,6 +64,8 @@ title: "THE bookmarks"
 
 - [Code House](https://codehouse.vercel.app/app) - the all in one storehouse for developer cheatsheets. Code House is made up of 300+ curated cheatsheets from 230+  
 
+- [Docker Handbook 2021](https://www.freecodecamp.org/news/the-docker-handbook/) - The Docker Handbook – 2021 Edition
+
 - [Programming Notes for Professionals books](https://books.goalkicker.com/)
 
 - [Tidy Data Principles](https://vita.had.co.nz/papers/tidy-data.pdf) - Tidy datasets are easy to manipulate, model and visualise, and have a specific structure: each variable is a column, each observation is a row, and each type of observational unit is a table. ✔️🌎
@@ -87,10 +84,6 @@ title: "THE bookmarks"
 
   - [Power Apps visual for Power BI](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/powerapps-custom-visual) - Using the Power Apps visual, you can pass context-aware data to a canvas app, which updates in real time as you make changes to your report. ✔️🌎
 
-
-## Collaboration
-
-🤼🤼🤼🤼🤼
 
 
 ## Courses
@@ -196,9 +189,6 @@ title: "THE bookmarks"
 
 - [UI pattern](https://codepen.io/topics/ui-pattern) - Templates, examples and resources for common libraries, frameworks and UI patterns.
 
-## How we work
-
-🛣️🛣️🛣️🛣️🛣️
 
 
 ## Inspiration
@@ -293,9 +283,6 @@ title: "THE bookmarks"
 
 - [Writing Readable Code](https://www.youtube.com/watch?v=SPlS4kW0UbE) -Having readable code is a prerequisite to scaling your product and the organization behind it. Hard-to-read code not only intimidates your co-workers (and your future self) but also conceals bugs and hurts your team’s velocity, since every modification takes twice as long as it should. 
 
-## Project and Backlog Management
-
-🚧🚧🚧🚧🚧
 
 ## Reproducible Research
 
@@ -318,9 +305,6 @@ title: "THE bookmarks"
 
 [Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 
-## User Experience - UX
-
-👤👤👤👤👤
 
 
 ## Version Control
