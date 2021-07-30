@@ -24,6 +24,7 @@ title: "THE bookmarks"
 - [Courses](#courses)
 - [Data Wrangling and related](#data-wrangling-and-related)
 - [Databases](#databases)
+- [Data Engineering](#data-engineering)
 - [Design](#design)
 - [How we work](#how-we-work)
 - [Inspiration](#inspiration)
@@ -128,6 +129,8 @@ title: "THE bookmarks"
 ## Databases
 
 💾💾💾💾💾
+
+## Data Engineering
 
 
 - [Relational Databases 101](https://dev.to/lmolivera/everything-you-need-to-know-about-relational-databases-3ejl) -Everything you need to know about (Relational) Databases. ✔️🌎
@@ -418,6 +421,8 @@ title: "THE bookmarks"
 
 - [Crontab Guru](https://crontab.guru/) - allows you to validate exactly how your future cron will behave before programming it.
 
+- [Data Science Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world. ✔️🌎
+
 - [DevDocs](https://devdocs.io/) - It would be cool to have access to all the docs of all the frameworks/languages in one well-organized place.
 
 - [DevHints.io](https://devhints.io/) - You can think of any language tools or frameworks used by developers, you will find the cheatsheet on this site
@@ -426,20 +431,21 @@ title: "THE bookmarks"
 
 - [ExplainShell](https://explainshell.com/) - allows to copy/paste any command is to have a complete explanation!
 
-- [Pomofocus](https://pomofocus.io/) - is the best web management tool for the pomodoro technique I’ve ever seen.
-
 - [JSON Editor Online](https://jsoneditoronline.org/#left=local.dozape) - JSON Online Editor
 
 - [Learn X in Y minutes](https://learnxinyminutes.com/) - Every possible language, explained in one page, in almost every language, through concrete examples of code
 
 - [Music](https://music.reaper.im/) - Simple keyboard focused player using youtube as source.
 
+- [Open Source Data Science Masters](https://github.com/datasciencemasters/go) - The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to making use of data.
+
 - [Photopea](https://www.photopea.com/) - is just free Photoshop in the browser.
+
+- [Pomofocus](https://pomofocus.io/) - is the best web management tool for the pomodoro technique I’ve ever seen.
 
 - [Regex101](https://regex101.com/) - Regex Online
 
 - [Squoosh](https://squoosh.app/) - Most huge images – in terms of weight – can be reduced by 60% without losing quality.
 
-- [Data Science Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world. ✔️🌎
+- [QuickRef](https://quickref.me/) - Here are some cheatsheets and quick references contributed by open source angels.
 
-- [Open Source Data Science Masters](https://github.com/datasciencemasters/go) - The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to making use of data.
