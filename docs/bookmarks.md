@@ -120,6 +120,8 @@ title: "THE bookmarks"
 
 - [SQLalchemy - Python](https://docs.sqlalchemy.org/en/13/index.html) - A popular Python library for connecting our python script to the database. Tutorial with an example on [Medium](https://medium.com/swlh/python-database-connection-with-sqlalchemy-3730904a43b4) ✔️🌎
 
+- [SQL Style Guide - Hollywell](https://www.sqlstyle.guide/) - SQL Style Guide by Simon Holywell 
+
 ## Data Engineering
 
 🛠🛠🛠🛠🛠
