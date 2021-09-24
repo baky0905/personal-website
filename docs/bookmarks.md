@@ -189,6 +189,8 @@ title: "THE bookmarks"
 
 - [Pirate Ipsum](https://pirateipsum.me/) - The best Lorem Ipsum Generator in all the sea!
 
+- [practicaltypography](https://practicaltypography.com/) - practicaltypography 
+
 - [uiGradients](https://uigradients.com/#Rastafari)
 
 - [UI pattern](https://codepen.io/topics/ui-pattern) - Templates, examples and resources for common libraries, frameworks and UI patterns.
