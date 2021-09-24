@@ -100,6 +100,8 @@ title: "THE bookmarks"
 
 - [SQL tutorial from data.world](https://docs.data.world/documentation/sql/concepts/basic/intro.html) - An introduction to SQL, basic, intermediate and advanced. ✔️🌎
 
+- [learnsql.com](https://learnsql.com/) - learn sql
+
 - [Version control with git](https://www.udacity.com/course/version-control-with-git--ud123) - Learn how to to create a new Git repo, commit changes, and review the commit history of an existing repo, how to keep your commits organized using tags and branches and you'll master the art of merging changes by crushing those pesky merge conflicts. ✔️🌎
 
 ## Data Wrangling and related
