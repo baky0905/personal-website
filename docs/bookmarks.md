@@ -62,6 +62,8 @@ title: "THE bookmarks"
 
 📜📜📜📜📜
 
+- [Calm Code](https://calmcode.io/) - Video tutorials for modern ideas and open source tools.
+
 - [Code House](https://codehouse.vercel.app/app) - the all in one storehouse for developer cheatsheets. Code House is made up of 300+ curated cheatsheets from 230+  
 
 - [Docker Handbook 2021](https://www.freecodecamp.org/news/the-docker-handbook/) - The Docker Handbook – 2021 Edition
